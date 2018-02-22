@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "axios": "^0.17.1",
+    "jsoneditor": "^5.13.3",
     "module": "^1.2.5",
     "muse-ui": "^2.1.0",
     "qs": "^6.5.1",
