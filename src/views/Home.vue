@@ -215,6 +215,7 @@
         margin-bottom: 16px;
         .btn {
             margin-right: 8px;
+            margin-bottom: 16px;
         }
     }
     .settings-box {
